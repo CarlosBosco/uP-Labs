@@ -79,4 +79,7 @@ $RECYCLE.BIN/
 *.Carlos
 *.mrsuyyagh
 *.spilar1
+*.0000
+*.dbgconf
+*.sct
 # End of https://www.gitignore.io/api/macos,windows
